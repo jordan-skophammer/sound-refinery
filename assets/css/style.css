@@ -9,3 +9,17 @@ nav {
 .brand-logo, .material-icons{
 	color: black !important;
 }
+
+h4 {
+	color: white;
+}
+
+.album-image {
+	padding-top: 15px;
+}
+
+.artist-title, .song-title {
+	font-size: 35px;
+}
+
+
